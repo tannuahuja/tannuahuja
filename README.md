@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tannu Ahuja</h1>
-<h3 align="center">Code Explorer on a Creative Journey 🚀</h3>
+<h3 align="center">🚀 Deploying Dreams in the Cloud</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tannuahuja&label=Profile%20views&color=0e75b6&style=flat" alt="tannuahuja" /> </p>
 
