@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tannuahuja" alt="tannuahuja" /></a> </p>
 
-- 🌱 I’m currently learning **React,Redux**
+- 🌱 I’m currently learning **Kubernetes, Datadog**
 
-- 💬 Ask me about **Web Development, DevOps**
+- 💬 Ask me about **DevOps, Cloud, Web Development**
 
 - 📫 How to reach me **tannuahuja137@gmail.com**
 
